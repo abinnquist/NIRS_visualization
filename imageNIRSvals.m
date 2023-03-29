@@ -1,5 +1,9 @@
-% Image areas based on the statistic of choice. Can be used for
-% individual/dyadic or at a group level.
+% Image areas based on the statistic of choice. 
+% Used for: individual/dyadic, group, or probe.
+
+% DEPENDENCIES: 
+% SPM - https://github.com/spm/spm12
+% xjview - https://www.alivelearn.net/xjview/download/
 
 % INPUTS:
 % areas - The areas that align with what you are imagin. Could be all
