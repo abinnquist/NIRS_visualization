@@ -33,5 +33,5 @@ The below examples can be run with the included data in the examples folder and 
   - imageNIRSvals(areas, 3, 'Sig_r_neutral')
 
 - EXAMPLE 3: 
-  - A 42 channel setup all channels in 3D structure, only one variable in the .mat file
-  - imageNIRSvals(1:42)
+  - A 42 channel setup all channels in 3D structure with 2nd page selected for visualization, only one variable in the .mat file
+  - imageNIRSvals(1:42,2)
