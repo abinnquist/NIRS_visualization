@@ -2,9 +2,10 @@
 For visualizing NIRS data or probe specific areas
 
 # Dependencies
-Currently I use SPM12 but I belive the older version may work as well
-- SPM - https://github.com/spm/spm12
-- xjview - https://www.alivelearn.net/xjview/download/
+Currently I use SPM12 but I belive the older version may work as well. I also use SurfIce to visualize as I find it easy to use and learn but there are other options out there that can be used with the .img file created with the script.
+1. SPM - https://github.com/spm/spm12
+2. xjview - https://www.alivelearn.net/xjview/download/
+3. SurfIce (optional) - https://www.nitrc.org/projects/surfice/
 
 # INPUTS:
 - areas - The areas that align with what you are imagin. Could be all
