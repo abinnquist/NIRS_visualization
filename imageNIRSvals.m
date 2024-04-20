@@ -6,7 +6,7 @@
 % xjview - https://www.alivelearn.net/xjview/download/
 
 % INPUTS:
-% areas - The areas that align with what you are imagin. Could be all
+% areas - The areas that align with what you are imaging. Could be all
 %       channels OR channels that add up to an area (i.e., 1-5=mPFC, 6-10=dlPFC,
 %       etc.). The areas must align with the statistics you are imaging.
 % multiDim - 0=2D structure, 1-n=3D structure. Selct which page if 3D
